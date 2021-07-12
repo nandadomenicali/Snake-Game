@@ -20,7 +20,4 @@ Jogo da cobrinha desenvolvido no intuito de promover as skills e se divertir no 
 
 - [@nandadomenicali](https://github.com/nandadomenicali)
 
-  
-## Para Jogar o jogo acesse olink abaixo: 🎮
-
-- 
+ 
