@@ -1,0 +1,25 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    height: 95vh;
+    width: 95vw;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: white;
+    background-color: black;
+    margin-bottom: 10px;
+}
+
+img{
+    opacity: 0.9;
+}
+
+aside{
+    font-size: 25pt;
+    position: absolute;
+    margin-left: 700px;
+    margin-top: -450px;
+    color: rgb(224, 223, 223);
+}
